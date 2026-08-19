@@ -15,3 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning **Python** 
+<p align="center">
+  <img src="./assets/tech-sphere.svg" alt="{{name}} — orbital toolbelt" width="100%" />
+</p>
+
+### why this orbit
+
+{{orbit_explanation_paragraph}}
+
+### what's at the center this week
+
+> {{learning_focus}}
+
+— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
+<!-- Latitudes rotating clockwise -->
+<g>
+  <animateTransform attributeName="transform" type="rotate"
+                    from="0" to="360" dur="22s" repeatCount="indefinite"/>
+  <ellipse rx="160" ry="60" .../>
+  <ellipse rx="160" ry="60" transform="rotate(60)" .../>
+  ...
+</g>
+
+<!-- Tokens rotating counter-clockwise at the same rate -->
+<g>
+  <animateTransform attributeName="transform" type="rotate"
+                    from="0" to="-360" dur="22s" repeatCount="indefinite"/>
+  <g transform="translate(-130,-30)"><text>react</text></g>
+  ...
+</g>
