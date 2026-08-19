@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🌱 I’m currently learning **Python** 
 <p align="center">
-  <img src="./assets/tech-sphere.svg" alt="{{name}} — orbital toolbelt" width="100%" />
+  <img src="./assets/tech-sphere.svg" alt="{{Haekal Rizqi}} — orbital toolbelt" width="100%" />
 </p>
 
 ### why this orbit
