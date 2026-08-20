@@ -1,46 +1,19 @@
-## Hello World! I'm Haekal Rizqi👋
+## Hello, I'm Haekal Rizqi
 
-<!--
-**KalRizz/KalRizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a curious developer building a strong foundation in software development one useful project at a time.
 
-Here are some ideas to get you started:
+🌱 Currently learning **Python** and exploring how thoughtful code can solve everyday problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🌱 I’m currently learning **Python** 
 <p align="center">
-  <img src="./assets/tech-sphere.svg" alt="{{Haekal Rizqi}} — orbital toolbelt" width="100%" />
+  <img src="./assets/tech-sphere.svg" alt="Haekal Rizqi's learning orbit" width="100%" />
 </p>
 
-### why this orbit
+### What I am focusing on
 
-{{orbit_explanation_paragraph}}
+- Writing clear, maintainable Python
+- Learning through small, complete projects
+- Growing my problem-solving fundamentals
 
-### what's at the center this week
+### Find me online
 
-> {{learning_focus}}
-
-— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
-<!-- Latitudes rotating clockwise -->
-<g>
-  <animateTransform attributeName="transform" type="rotate"
-                    from="0" to="360" dur="22s" repeatCount="indefinite"/>
-  <ellipse rx="160" ry="60" .../>
-  <ellipse rx="160" ry="60" transform="rotate(60)" .../>
-  ...
-</g>
-
-<!-- Tokens rotating counter-clockwise at the same rate -->
-<g>
-  <animateTransform attributeName="transform" type="rotate"
-                    from="0" to="-360" dur="22s" repeatCount="indefinite"/>
-  <g transform="translate(-130,-30)"><text>react</text></g>
-  ...
-</g>
+[GitHub](https://github.com/KalRizz)
