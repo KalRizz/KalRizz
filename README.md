@@ -1,11 +1,11 @@
 ## Hello, I'm Haekal Rizqi
 
-I am a curious developer building a strong foundation in software development one useful project at a time.
+I am a Student 
 
-🌱 Currently learning **Python** and exploring how thoughtful code can solve everyday problems.
+🌱 Currently learning and exploring **Python** 
 
 <p align="center">
-  <img src="./assets/tech-sphere.svg" alt="Haekal Rizqi's learning orbit" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a2I2aG1iYjVwZXVzdmZjYXdiNGVueXBrYWplYnZodjVxbWV3MGpodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dp9qX7syCLQXeDZj9T/giphy.gif" alt="" width="100%" />
 </p>
 
 ### What I am focusing on
